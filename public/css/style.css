@@ -1,0 +1,73 @@
+.main {
+    height: 100vh;
+}
+.bady-content {
+}
+.sidebar {
+    background: #d1d1d1;
+    color: wheat;
+    font-family: "Acme", sans-serif;
+}
+.sidebar a {
+    color: wheat;
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+    /* padding: 20px 10px; */
+}
+.contentA {
+    background: white;
+}
+.contentB {
+    background: whitesmoke;
+    box-shadow: #d1d1d1;
+}
+.contentC {
+    background: whitesmoke;
+}
+/* .sidebar a:hover {
+    background: #ffff;
+} */
+/* .active {
+    background: pink;
+    border-right: solid 10px orange;
+} */
+.card-data {
+    border: solid 1px;
+    border-radius: 8px;
+    padding: 20px 30px;
+    color: #000;
+}
+.card-data i {
+    font-size: 60px;
+}
+.card-desc {
+    font-size: 20px;
+}
+.card-child {
+    font-size: 15px;
+}
+h3 {
+    padding: 10px;
+}
+/* .justify-content-center {
+    padding-right: 4px;
+} */
+.card {
+    margin-block: 4px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gambarBg {
+    background-image: url("bg2.1.jpeg");
+    background-repeat: no-repeat;
+    /* background-position: 500px 500px; */
+    background-size: 100% 100%;
+    opacity: 0.8;
+}
+.plk {
+    opacity: 0.6;
+}
+.gilak {
+    margin-block-end: auto;
+}
